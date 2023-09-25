@@ -1,5 +1,5 @@
 # 程序简介
-新手练手作品，基于C++的opencv
+新手的练手作品，基于C++的opencv
 ### 序言注释（prologue comments）
 module name : getMutation
 function : divide a region, then this program will continue to monitor this area
